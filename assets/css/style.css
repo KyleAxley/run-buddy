@@ -71,8 +71,7 @@ header {
       padding: 60px;
     
   }
-
-  /* Hero Style Start */
+    /* Hero Style Start */
   .hero {
     background-image: url("../images/hero.jpg"); 
     height: 600px;
